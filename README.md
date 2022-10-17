@@ -18,5 +18,5 @@ Puis lancez la page avec :
 * Appuyez sur le bouton "Envoyer".
 * S'affichera alors tout d'abord la liste générée et dessous la liste traitée.
 
-##Tests
-* Pour lancer les tests unitaires, éxecutez le fichier test_utils.py
+## Tests
+Pour lancer les tests unitaires, éxecutez le fichier test_utils.py
