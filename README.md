@@ -17,3 +17,6 @@ Puis lancez la page avec :
 * Rentrez un entier positif qui définira la longueur de la liste aléatoire générée.
 * Appuyez sur le bouton "Envoyer".
 * S'affichera alors tout d'abord la liste générée et dessous la liste traitée.
+
+##Tests
+Pour lancer les tests unitaires, éxecutez le fichier test_utils.py
