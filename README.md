@@ -19,4 +19,4 @@ Puis lancez la page avec :
 * S'affichera alors tout d'abord la liste générée et dessous la liste traitée.
 
 ##Tests
-Pour lancer les tests unitaires, éxecutez le fichier test_utils.py
+* Pour lancer les tests unitaires, éxecutez le fichier test_utils.py
